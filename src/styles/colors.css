@@ -1,0 +1,36 @@
+/* Ethereal Escape Color Palette */
+:root {
+  /* Primary Colors */
+  --color-sage-50: #f8faf8;
+  --color-sage-100: #e8f2e8;
+  --color-sage-200: #d1e5d1;
+  --color-sage-300: #a8b5a0;
+  --color-sage-400: #95a88a;
+  --color-sage-500: #7d9970;
+  --color-sage-600: #6b8259;
+  --color-sage-700: #5a6d4a;
+  
+  /* Neutral Colors */
+  --color-cream-50: #fefcf8;
+  --color-cream-100: #fff8e7;
+  --color-cream-200: #f5f1e8;
+  --color-cream-300: #e6ddd4;
+  --color-cream-400: #d4c5b0;
+  --color-cream-500: #c2b29c;
+  
+  /* Grey Colors */
+  --color-grey-50: #f8f9fa;
+  --color-grey-100: #f1f3f5;
+  --color-grey-200: #e9ecef;
+  --color-grey-300: #dee2e6;
+  --color-grey-400: #ced4da;
+  --color-grey-500: #adb5bd;
+  --color-grey-600: #868e96;
+  --color-grey-700: #495057;
+  --color-grey-800: #343a40;
+  --color-grey-900: #212529;
+  
+  /* Accent Colors */
+  --color-gold: #d4af37;
+  --color-gold-light: #f4e9c1;
+}
